@@ -12,7 +12,8 @@ modules install for Python 3.10.1 IDLE <br>
 
 modules install for visual code code <br>
 1.open visual code code<br>
-2.in terminal type :::::: pip install truth-table-generator
+2.in terminal type :::::: pip install truth-table-generator -----------> pip install 'moudule name'<br>
+    in 'module name', Enter the module name that you want to install<br>
 
 
 
